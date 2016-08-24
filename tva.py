@@ -1,11 +1,11 @@
 def add(a,b):
-    c = a + b
-    return c
+    d = a + b
+    return d
 	
 	
 print("Hello")
 # comment
 i = int(input("Type in a number , and it will be repeated on screen: "))
 print (i)
-i = add(i,1)
-print (i)
+j = add(i,1)
+print (j)
